@@ -3,5 +3,6 @@
 int main(void) {
 
 	printf("Version 0.1 ");
+	append(0.1);
 	}
 
